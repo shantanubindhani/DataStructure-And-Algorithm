@@ -1,4 +1,4 @@
-This repo has two dsAlgo files
+This repo has two dsAlgo directories!.
 
 cORcpp : dsAlgo implemented in c-plus-plus
 
